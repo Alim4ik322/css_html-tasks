@@ -1,5 +1,6 @@
 p {
 	color: orange;
+	width: 300px;
 }
 h1 {
 	color: green;
@@ -13,4 +14,12 @@ h3 {
 b {
 	color: rgb(253,001,099)
 
+}
+p
+{
+	width: 300px;
+}
+td {
+	width: 400px;
+	height: 300px;
 }
