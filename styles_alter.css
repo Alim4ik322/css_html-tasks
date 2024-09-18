@@ -1,0 +1,5 @@
+p {
+	text-indent: 30px; /* Красная строка */
+    font: normal 16px Arial; /* Шрифт */
+    line-height: 1.5; /* Межстрочный интервал */
+}
