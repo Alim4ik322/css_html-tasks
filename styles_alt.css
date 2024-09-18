@@ -8,4 +8,15 @@ td
 h2
 {
     font-style: italic;
+    font-size: 40px;
+    font-weight: normal;
+}
+h1
+{
+    font-size: 50px;
+    text-align: center;
+}
+p
+{
+    font-size: 30px;
 }
