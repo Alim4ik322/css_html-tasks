@@ -7,4 +7,15 @@ h3
 {
     font-size: 16px;	
 }
-	
+li i
+{
+    color: red;
+}
+p i
+{
+    color: green;
+}	
+b i
+{
+    color: red;
+}
