@@ -57,3 +57,32 @@ b i
 {
     color: green;
 }
+.yyy,.zzz {
+	
+	line-height: 1.5;
+	font-family: Arial;
+}
+.zzz {
+	font-size: 30px;
+}
+.yyy
+{
+    font-size: 20px;
+}
+.ddd, .ooo, .ggg
+{
+	text-align: center;
+	font-family: Arial;
+}
+.ooo
+{
+	font-size: 30px;	
+}
+.ggg 
+{
+	font-size: 35px;
+}
+.ddd
+{
+    font-size: 20px;
+}
