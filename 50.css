@@ -7,9 +7,14 @@ h3
 {
     font-size: 16px;	
 }
-li i
+li i 
 {
     color: red;
+}
+li b
+{
+    color: red;
+
 }
 p i
 {
@@ -17,5 +22,5 @@ p i
 }	
 b i
 {
-    color: red;
+    color: black;
 }
