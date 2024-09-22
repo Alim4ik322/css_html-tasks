@@ -50,7 +50,7 @@ p .bbb {
 }
 .third
 {
-	font-family: "Comic Sans MC";
+	font-family: "Comic Sans MS";
 }
 #elem1
 {
@@ -63,4 +63,28 @@ p .bbb {
 #elem3
 {
 	color:blue;
+}
+#block
+{
+	color: orange;
+}
+.text
+{
+	font-family: "Comic Sans MS";
+}
+#elem h2
+{
+	color: green;
+}
+#elem .text
+{
+	color: green;
+}
+#elem p.text
+{
+	color: orange;
+}
+#elem li.text
+{
+	font-size: 20px;
 }
