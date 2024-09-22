@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="61.css">
+    <title>Document</title>
+</head>
+<body>
+<h1>61#1</h1>
+<div class="eee">
+    <p class="bbb">Делает всё в теге bbb красным, если он является потомком элемента с тегом eee </p>
+    <p>Здесь это не работает</p>
+</div>    
+<p class="bbb">Здесь тоже</p>
+<h1>61#2</h1>
+<div class="eee">
+    <h2> оно красит в красный тег заголовка h2, если он потомок элемента с тегом eee</h2>
+</div>
+<h1>61#3</h1>
+<div class="eee">
+    <h2 class="bbb"> оно красит в красный тег заголовка h2, если он содержит bbb, и является потомком тега с классом eee</h2>
+</div>
+<h1>61#4</h1>
+<div class="eee">
+    <h3 class="bbb"> оно красит в красный тег заголовка h3, если он содержит bbb, и является потомком тега с классом eee</h3>
+</div>
+<h1>64#5</h1>
+<div class="eee">
+    <p class="bbb"> оно красит в красный тег p, если он содержит bbb, и является потомком тега с классом eee</p>
+</div>
+<h1>64#6</h1>
+<div class="eee">
+    <div class="bbb">
+        <p class="kkk">красит в красный любой тег с классом kkk, если этот тег потомок тега с классом bbb, при этом тега с классом bbb должен быть потомком тега с классом eee </p>
+    </div>
+</div>
+</body>
+</html>
