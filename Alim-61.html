@@ -205,6 +205,28 @@
     <p class="xxx"> ищет элемент с классом xxx, если этот тег потомок тега с классами bbb zzz</p>
 </div>
 <h1>69#8</h1>
-
+<div class="bbb">
+    <div class="zzz">
+        <div class="xxx">
+            <p>ищет элемент с классом xxx, если этот тег потомок тега с классом zzz, а тег с классом zzz потомок тега с классом bbb</p>
+        </div>
+    </div>
+</div>
+<h1>69#9</h1>
+<h2 id="elem" class="bbb">ищет тег с id elem и классом bbb</h2>
+<h1>69#10</h1>
+<div id="elem">
+    <p class="bbb"> ищет тег с классом bbb, если он потомок элемента с id elem </p>
+</div>
+<h1>70#1</h1>
+<div id="block">
+    <h1>пункт</h1>
+    <h2>1</h2>
+</div>
+<h1>70#2</h1>
+<div id="block"></div>
+    <h1>пункт</h1>
+    <h2>2</h2>
+</div>
 </body>
 </html>
