@@ -28,3 +28,9 @@ a:active {
   color: blue;
     text-decoration: none;
 }
+#test a {
+	color: red;
+}
+#test a:hover {
+	text-decoration: none;
+}
