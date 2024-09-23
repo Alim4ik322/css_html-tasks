@@ -1,0 +1,115 @@
+#block h1,#block h2,#block h3 {
+	text-align: center;
+}
+#block h2 {
+	color: blue;
+}
+#block h3 {
+	color: red;
+}
+#block h1.eee 
+{
+	font-size: 30px;
+}
+#block h2.zzz {
+	
+	font-size: 20px;
+}
+#block h1.eee,#block h2.zzz
+{
+    text-align: center;
+}
+#eee h2,.xxx .kkk,.eee h2.zzz 
+{
+	text-align: center;
+}
+.eee h2.zzz,.xxx {
+	text-align: center;
+}
+div p
+{
+    font-size: 20px;
+    color: red;
+}
+div h2
+{
+    font-size: 20px;
+    color: orange;
+}
+#block p
+{
+    font-size: 20px;
+    color: green;
+}
+#block p
+{
+    font-size: 30px;
+    color: firebrick;
+}
+.bbb
+{
+    font-size: 30px;
+    color: rgb(34, 56, 178);
+}
+#block .bbb
+{
+    font-size: 20px;
+    color: rgba(45, 128, 0, 0.407); 
+}
+p.bbb 
+{
+    font-size: 50px;
+    color: rgba(225, 106, 106, 0.551);
+}
+h2.bbb
+{
+    font-size: 50px;
+    color: rgba(49, 163, 17, 0.949);
+}
+#block p.bbb
+{
+    font-size: 40px;
+    color: rgba(18, 83, 194, 0.949);
+}
+.bbb, .xxx
+{
+    font-size: 30px;
+    color: rgba(238, 33, 173, 0.949);
+
+}
+p.bbb, h2.xxx
+{
+    font-size: 30px;
+    color: rgba(29, 172, 41, 0.949);
+}
+#block p.bbb, #block p.xxx 
+{
+    font-size: 30px;
+    color: rgba(29, 132, 172, 0.949);
+}
+.fff
+{
+    font-size: 30px;
+    color: rgba(0, 255, 115, 0.949);
+}
+.fff p
+{
+    font-size: 35px;
+    color:blueviolet;
+}
+p.fff {
+    font-size: 35px;
+    color: hotpink;
+}
+.fff .bbb 
+{
+    font-size: 35px;
+    color: goldenrod;
+}
+.fff h2.bbb 
+{
+    font-size: 35px;
+    color: grey;
+    
+}
+
