@@ -1,0 +1,13 @@
+#elem {
+	width: 180px;
+	height: 190px;
+	background-color: rgb(101, 101, 229); 
+}
+#elemm {
+	width: 300px;
+	height: 200px;
+	color: white;
+    font-size: 20px;
+    text-align: center;
+	background-color: rgb(103, 217, 103); /* задаем оранжевый цвет фона */
+}
