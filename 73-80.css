@@ -29,3 +29,38 @@ main * p
     font-size: 30px;
     color: orange;
 }
+[title]
+{
+    font-size: 30px;
+    color: brown;
+}
+p[title]
+{
+    font-size: 30px;
+    color: yellowgreen;
+}
+p[title="hello"]
+{
+    font-size: 30px;
+    color: firebrick;
+}
+a[href^="http://"]
+{
+    font-size: 35px;
+    color: red;
+}
+a[href$=".html"] 
+{
+	color: green;
+    font-size: 35px;
+}
+p[title*="hello"]
+{
+    font-size: 30px;
+    color: blueviolet;
+}
+p[class^="top-"]
+{
+    font-size: 30px;
+    color: blue;
+}
