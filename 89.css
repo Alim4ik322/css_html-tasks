@@ -1,0 +1,9 @@
+li:not(.elem) {
+	color: red;
+}
+li:not(:first-child) {
+    font-size: 40px;
+}
+li:not(:first-child):not(:last-child) {
+    font-size: 30px;
+}
