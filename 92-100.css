@@ -75,3 +75,10 @@
 	border: 1px solid green;
 	border-radius: 30px;
 }
+#elem_100
+{
+	border-radius: 40px;
+	width: 200px;
+	height: 200px;
+	background-color: #4ae093;
+}
