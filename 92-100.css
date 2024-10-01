@@ -12,3 +12,45 @@
 	width: 250px;
 	height: 150px;
 }
+#elem_94 {
+	border-width: 2px;
+	border-style: dashed;
+	border-color: orange;
+	width: 250px;
+	height: 150px;
+}
+#elem_96 {
+	border-width: 8px;
+	border-style: double;
+	border-color: blue;
+	width: 250px;
+	height: 150px;
+}
+#elem_96 {
+	border-width: 8px;
+	border-style: double;
+	border-color: blue;
+	width: 250px;
+	height: 150px;
+}
+#elem_97-1 {
+	border: 1px solid red;
+	width: 250px;
+	height: 150px;
+}
+#elem_97-2 {
+	border: 2px dotted blue;
+	width: 250px;
+	height: 150px;
+}
+#elem_97-3 {
+	border: 2px dashed green;
+	width: 250px;
+	height: 150px;
+}
+#elem_97-4 {
+	border: 4px double orange;
+	width: 250px;
+	height: 150px;
+}
+
