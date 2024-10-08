@@ -39,3 +39,17 @@
 	height: 300px;
 	border: 3px solid black;
 }
+#elem_109_1 {
+    background-repeat: repeat-y;
+	background-image: url("bg.png");
+	width: 800px;
+	height: 300px;
+	border: 3px solid black;
+}
+#elem_109_2 {
+    background-repeat: repeat-x;
+	background-image: url("bg.png");
+	width: 800px;
+	height: 300px;
+	border: 3px solid black;
+}
