@@ -53,3 +53,10 @@
 	height: 300px;
 	border: 3px solid black;
 }
+#elem_110 {
+    background-repeat: repeat-x;
+	background-image: url("unnamed.jpg");
+	width: 800px;
+	height: 600px;
+	border: 3px solid black;
+}
