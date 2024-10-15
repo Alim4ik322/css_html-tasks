@@ -135,3 +135,47 @@ ul {
 	height: 50px; 
 	border: 1px dashed blue;
 }
+#elem129-1
+{
+	width: 200px;
+	border: 1px solid red;
+	text-align: justify;
+	padding: 50px;
+}
+#elem129-21
+{
+	width: 500px;
+	border: 1px solid green;
+	text-align: justify;
+	padding: 20px;
+	margin-bottom: 30px;
+}
+#elem129-22
+{
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+	padding: 10px;
+	margin-left: 50px;
+}
+#elem130-1
+{
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+	padding: 10px 20px 30px 40px;
+}
+#elem130-2
+{
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+	padding: 40px 20px 40px 20px;
+}
+#elem130-3
+{
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+	padding: 10px 20px 40px;
+}
