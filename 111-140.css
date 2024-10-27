@@ -188,3 +188,18 @@ ul {
 	text-align: justify;
 	padding: 10px 20px 40px;
 }
+#elem138 {
+	width: 100px;
+	height: 100px;
+	background: #f1f1f1;
+	margin-bottom: 20px;
+}
+
+#elem138-2 {
+	padding: 25px; /* задаем отступы */
+	width: 100px;
+	height: 100px;
+	background: #f1f1f1;
+	border: 5px dashed black;
+	box-sizing: border-box; 
+}
