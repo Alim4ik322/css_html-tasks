@@ -1,0 +1,14 @@
+#elem-141
+{
+	display: inline;
+	width: 200px;
+	height: 200px;
+	border: 1px solid red;
+}
+#elem-150-2
+{
+	display: block;
+	width: 200px;
+	height: 200px;
+	border: 1px solid red;
+}
