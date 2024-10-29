@@ -12,3 +12,43 @@
 	height: 200px;
 	border: 1px solid red;
 }
+.elem-155 {
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+	display: inline-block;
+}
+.parent156
+{
+	height: 345px;
+	width: 700px;
+	border: 1px solid red;
+
+}
+.child156-1
+{
+	height: 100px;
+	width: 100px;
+	border: 1px solid green;
+	margin: 10px auto;
+	display: block;
+
+}
+.child156-2
+{
+	height: 100px;
+	width: 200px;
+	border: 1px solid green;
+	margin: 10px auto;
+	display: block;
+
+}
+.child156-3
+{
+	height: 100px;
+	width: 300px;
+	border: 1px solid green;
+	margin: 10px auto;
+	display: block;
+
+}
