@@ -56,10 +56,28 @@
 {
 	padding: 10px 0;
 	border: 1px solid red;
-	text-align: center; /* Центрируем текст внутри блока */
+	text-align: center;
 }
   
 .parent161 a 
 {
-	margin: 0 10px; /* Добавляем отступы между ссылками, если нужно */
+	margin: 0 10px; 
+}
+.parent162-1 {
+	padding: 10px 0;
+	border: 1px solid red;
+	text-align: right;
+}
+.parent162-1 a 
+{
+	margin: 0px; 
+}
+.parent162-2 {
+	padding: 10px 0;
+	border: 1px solid red;
+	text-align: right;
+}
+.parent162-2 a 
+{
+	margin: 0 10px; 
 }
