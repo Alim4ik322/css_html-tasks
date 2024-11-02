@@ -92,3 +92,57 @@
 	display: inline-block;
 	margin: 5px;
 }
+.parent165-1 {
+	text-align: right;
+	padding: 10px 0;
+	border: 1px solid red;
+}
+.child165-1 {
+	display: inline-block;
+	padding: 10px;
+	border: 1px solid green;
+}
+.parent165-2 {
+	text-align: right;
+	padding: 10px 20px 10px 0;
+	border: 1px solid red;
+}
+.child165-2 {
+	display: inline-block;
+	padding: 10px;
+	border: 1px solid green;
+}
+.parent165-3 {
+	text-align: right;
+	padding: 10px 0;
+	border: 1px solid red;
+}
+.child165-3 {
+	display: inline-block;
+	padding: 10px;
+	border: 1px solid green;
+	margin: 10px;
+}
+.parent165-4 {
+	text-align: right;
+	padding: 10px 0;
+	border: 1px solid red;
+}
+.child165-4 {
+	text-align: center;
+	width: 100px;
+	padding: 10px;
+	border: 1px solid green;
+}
+.parent165-5 {
+	text-align: right;
+	padding: 10px 0;
+	border: 1px solid red;
+}
+.child165-5 {
+	text-align: center;
+	width: 100px;
+	padding: 10px;
+	border: 1px solid green;
+	display: inline-block;
+}
