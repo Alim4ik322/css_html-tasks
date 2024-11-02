@@ -81,3 +81,14 @@
 {
 	margin: 0 10px; 
 }
+.parent164 {
+	text-align: center;
+	padding: 10px 0;
+	border: 1px solid red;
+}
+.child164 {
+	padding: 10px;
+	border: 1px solid green;
+	display: inline-block;
+	margin: 5px;
+}
