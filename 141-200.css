@@ -205,3 +205,16 @@
 	height: 60px;
 	border: 1px solid green;
 }
+.parent173 {
+	display: flex;
+	width: 900px;
+	height: 400px;
+	justify-content: center;
+	border: 1px solid red;
+	margin: 20px auto;
+}
+.child173 {
+	width: 120px;
+	height: 60px;
+	border: 1px solid green;
+}
