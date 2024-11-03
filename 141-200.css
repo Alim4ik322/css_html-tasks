@@ -334,28 +334,54 @@
 }
 #elem1-177-4
  {
-	background-color: red;
+	background-color: #FF8888;
 	width: 50px;
 	height: 50px;
-	border: 1px solid red;
+	border: 1px solid  #FF8888;
 }
 #elem2-177-4
  {
-	background-color: blue;
+	background-color: #7E89EB;
 	position: absolute;
 	top: 6655px;
 	left: 40px;
 	width: 50px;
 	height: 50px;
-	border: 1px solid blue;
+	border: 1px solid  #7E89EB;
 }
 #elem3-177-4
 {
-	background-color: green;
+	background-color: #4DEE99;
 	position: absolute;
 	top: 6685px;
 	left: 70px;
 	width: 50px;
 	height: 50px;
-	border: 1px solid green;
+	border: 1px solid #4DEE99;
+}
+#elem1-178 {
+	top: 40px;
+	position: relative;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #FF8888;
+}
+#elem2-178 {
+	bottom: 5px;
+	left: 40px;
+	position: relative;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #7E89EB;
+}
+#elem3-178 {
+	top: -50px;
+	left: 120px;
+	position: relative;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #4DEE99;
 }
