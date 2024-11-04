@@ -612,4 +612,48 @@
 	border: 1px solid black;
 	top: 297px;
 }
-  
+#elem-h2-2
+{
+	margin-top: 330px;
+}
+#elem182 {
+	position: absolute;
+	top:    100px;
+	right:  100px;
+	bottom: 100px;
+	left:   100px;
+	border: 1px solid green;
+}
+#elem182-2 {
+	position: absolute;
+	top:    100px;
+	right:  200px;
+	bottom: 50px;
+	left:   10px;
+	border: 1px solid black;
+}
+#elem183{
+    position: relative;
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+    border: 1px solid green;
+}
+#elem183-1
+{
+	position: absolute;
+    left: 550px;
+    top: 11715px;
+    width: 30px;
+    height: 30px;
+    border: 1px solid red;
+}
+#elem183-2
+{
+	position: absolute;
+    right: 550px;
+    top: 11715px;
+    width: 30px;
+    height: 30px;
+    border: 1px solid red;
+}
