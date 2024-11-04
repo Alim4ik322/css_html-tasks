@@ -752,3 +752,39 @@
 	position:relative;
 	background-color: #4DEE99;
 }
+#elem187_3
+{
+	height:50px;
+	width: 50px;
+	position:absolute;
+	background-color: #FF8888;
+}
+#elem187-1_3
+{
+	height:50px;
+	width: 50px;
+	top:30px;
+	left:30px;
+	position:relative;
+	background-color: #7E89EB;
+	z-index: -1;
+}
+#elem187-2_3
+{
+	height:50px;
+	width:50px;
+	top:10px;
+	left:60px;
+	position:relative;
+	background-color: #4DEE99;
+}
+#elem189{
+	width: 400px;
+	text-align: justify;
+}
+#pic-right {
+	float: right;
+}
+#pic-left {
+	float: left;
+}
