@@ -657,3 +657,27 @@
     height: 30px;
     border: 1px solid red;
 }
+#elem184 {
+    position: relative;
+    width: 400px;
+    padding: 20px;
+    margin: 0 auto;
+    border: 1px solid green;
+    text-align: justify;
+}
+#elem184-1 {
+	position: fixed; /* задаем фиксированное позиционирование */
+	top: 30px;
+	right: 30px;
+	width: 30px;
+	height: 30px;
+	border: 1px solid red;
+}
+#elem184-2 {
+	position: fixed; /* задаем фиксированное позиционирование */
+	top: 30px;
+	left: 30px;
+	width: 30px;
+	height: 30px;
+	border: 1px solid red;
+}
