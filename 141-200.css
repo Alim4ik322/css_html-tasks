@@ -588,4 +588,28 @@
 	left: 0; /* Позиция по горизонтали */
 	top: -120px; /* Позиция по вертикали для наложения */
   }
+#elem180
+{
+	width: 400px;
+	height: 400px;
+	position: relative;
+	border: 1px solid red;
+	position: absolute;
+}
+#elem180-1
+{
+	width: 50px;
+	height: 50px;
+	position: relative;
+	border: 1px solid black;
+    left: 350px;
+}
+#elem180-2
+{
+	width: 50px;
+	height: 50px;
+	position: relative;
+	border: 1px solid black;
+	top: 297px;
+}
   
