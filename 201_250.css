@@ -67,3 +67,11 @@
     border: 1px solid green;
     text-align: left;
 }
+#elem205 {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
