@@ -75,3 +75,11 @@
     margin: 20px auto;
     border: 1px solid red;
 }
+#elem206 {
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
