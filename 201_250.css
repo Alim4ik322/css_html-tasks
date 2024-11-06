@@ -284,3 +284,46 @@
     margin: 20px auto;
     border: 1px solid red;
 }
+#file-212 {
+	float: left;
+    width:120px;
+    border: 1px solid green;
+    text-align: left;
+}
+#elem212
+{
+    display: flex;
+	flex-direction: row;
+	justify-content: center;
+    align-items: stretch;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+#file-212-1 {
+    height:40px;
+    border: 1px solid green;
+}
+#elem212-1
+{
+    display: flex;
+	flex-direction: column;
+	justify-content: center;
+    align-items: stretch;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+#elem212-2
+{
+    display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+    align-items: stretch;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
