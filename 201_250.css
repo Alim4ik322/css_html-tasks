@@ -612,3 +612,31 @@
     justify-content: center; 
     align-items: center;   
 }
+#elem224-1
+{
+    display: grid;
+    grid-template-columns: 100px 1fr 1fr;
+    width: 900px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+#elem224-1 > div{
+    border: 1px solid green;
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
+}
+#elem224-2
+{
+    display: grid;
+    grid-template-columns: 100px 1fr 1.5fr 100px;
+    width: 900px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+#elem224-2 > div{
+    border: 1px solid green;
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
+}
