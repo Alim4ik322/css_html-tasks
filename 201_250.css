@@ -764,3 +764,29 @@
     justify-content: center; 
     align-items: center;   
 }
+#elem230
+{
+    display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+	border: 2px solid #696989;
+	padding: 10px;
+	width: 600px;
+}
+#elem230 > div{
+    border: 1px solid  #696989;
+    justify-content: center; 
+    align-items: center;   
+}
+#elem230-2
+{
+    display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	border: 2px solid #696989;
+	padding: 10px;
+	width: 600px;
+}
+#elem230-2 > div{
+    border: 1px solid  #696989;
+    justify-content: center; 
+    align-items: center;   
+}
