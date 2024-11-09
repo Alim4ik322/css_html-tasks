@@ -470,3 +470,19 @@
 {
 	align-self: center;
 }
+#elem216-4
+{
+    display: flex;
+	flex-direction: column;
+	justify-content: center;
+    align-items: flex-start;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.elem216-1-4
+{
+    order:1;
+	align-self: center;
+}
