@@ -738,3 +738,17 @@
     justify-content: center; 
     align-items: center;   
 }
+#elem228
+{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,200px);
+    width: 700px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+#elem228 > div{
+    border: 1px solid green;
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
+}
