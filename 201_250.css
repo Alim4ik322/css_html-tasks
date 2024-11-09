@@ -486,3 +486,129 @@
     order:1;
 	align-self: center;
 }
+#elem221-1
+{
+    display: grid;
+    grid-template-columns: 200px;
+    width: 900px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+#elem221-1 > div{
+    border: 1px solid green;
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
+}
+#elem221-2
+{
+    display: grid;
+    grid-template-columns: 200px 200px;
+    width: 900px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+#elem221-2 > div{
+    border: 1px solid green;
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
+}
+#elem221-3
+{
+    display: grid;
+    grid-template-columns: 150px 150px 150px;
+    width: 900px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+#elem221-3 > div{
+    border: 1px solid green;
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
+}
+#elem221-4
+{
+    display: grid;
+    grid-template-columns: 100px 150px 200px;
+    width: 900px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+#elem221-4 > div{
+    border: 1px solid green;
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
+}
+#elem222-1
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 900px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+#elem222-1 > div{
+    border: 1px solid green;
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
+}
+#elem222-2
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 900px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+#elem222-2 > div{
+    border: 1px solid green;
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
+}
+#elem222-3
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr;
+    width: 900px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+#elem222-3 > div{
+    border: 1px solid green;
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
+}
+#elem223-1
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1.5fr;
+    width: 900px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+#elem223-1 > div{
+    border: 1px solid green;
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
+}
+#elem223-2
+{
+    display: grid;
+    grid-template-columns: 1fr 1.5fr 2.5fr;
+    width: 900px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+#elem223-2 > div{
+    border: 1px solid green;
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
+}
