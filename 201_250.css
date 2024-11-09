@@ -752,3 +752,15 @@
     justify-content: center; 
     align-items: center;   
 }
+#elem229
+{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    border: 2px solid #696989;
+    padding: 10px;
+}
+#elem229 > div{
+    border: 1px solid  #696989;
+    justify-content: center; 
+    align-items: center;   
+}
