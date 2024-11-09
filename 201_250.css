@@ -640,3 +640,31 @@
     justify-content: center; 
     align-items: center;   
 }
+#elem225-1
+{
+    display: grid;
+    grid-template-columns: 20% 1fr 1fr;
+    width: 900px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+#elem225-1 > div{
+    border: 1px solid green;
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
+}
+#elem225-2
+{
+    display: grid;
+    grid-template-columns: 100px 20% 1fr 2fr 4fr;
+    width: 900px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+#elem225-2 > div{
+    border: 1px solid green;
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
+}
