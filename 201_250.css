@@ -1307,3 +1307,29 @@
 	padding: 10px;
 	border: 1px solid #696989;
 }
+#elem239 {
+	display: grid;
+	gap: 10px;
+	grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr;
+	padding: 10px;
+	border: 2px solid #696989;
+	width: 600px;
+	height: 200px;
+}
+#elem239 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
+#elem239-2 {
+	display: grid;
+	gap: 10px 5%;
+	grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr;
+	padding: 10px;
+	border: 2px solid #696989;
+	width: 600px;
+	height: 200px;
+}
+#elem239-2 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
