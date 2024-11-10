@@ -816,3 +816,78 @@
     justify-content: center; 
     align-items: center;   
 }
+#elem232-1
+{
+    display: grid;
+    grid-template: 1fr 2fr / 0.5fr 1fr 1fr 2fr;
+    border: 2px solid #696989;
+    padding: 10px;
+    margin: 0 auto;
+    width: 600px;
+    height: 200px;
+}
+#elem232-1 > div{
+    border: 1px solid  #696989;
+    justify-content: center; 
+    align-items: center;   
+}
+#elem232-2
+{
+    display: grid;
+    grid-template: 1fr 2fr / 2fr 1fr 1fr 2fr;
+    border: 2px solid #696989;
+    padding: 10px;
+    margin: 0 auto;
+    width: 600px;
+    height: 200px;
+}
+#elem232-2 > div{
+    border: 1px solid  #696989;
+    justify-content: center; 
+    align-items: center;   
+}
+#elem232-3
+{
+    display: grid;
+    grid-template: 1fr 1fr 2fr 4fr / 0.5fr 1.5fr 3fr;
+    border: 2px solid #696989;
+    padding: 10px;
+    margin: 0 auto;
+    width: 600px;
+    height: 300px;
+}
+#elem232-3 > div{
+    border: 1px solid  #696989;
+    justify-content: center; 
+    align-items: center;   
+}
+#elem232-4
+{
+    display: grid;
+    grid-template: 2fr 1fr 1fr / 2fr 1fr 2fr 1fr;;
+    border: 2px solid #696989;
+    padding: 10px;
+    margin: 0 auto;
+    width: 600px;
+    height: 300px;
+}
+#elem232-4 > div{
+    border: 1px solid  #696989;
+    justify-content: center; 
+    align-items: center;   
+}
+#elem232-5
+{
+    display: grid;
+    grid-template: 2fr 1fr / repeat(2, 0.5fr) 1fr repeat(2, 2fr);
+    border: 2px solid #696989;
+    padding: 10px;
+    margin: 0 auto;
+    width: 600px;
+    height: 300px;
+}
+#elem232-5 > div{
+    border: 1px solid  #696989;
+    justify-content: center; 
+    align-items: center;   
+}
