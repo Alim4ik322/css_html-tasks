@@ -1556,6 +1556,9 @@
     font: 30px "Times New Roman";
     text-align: center;
 }
+#wrapper242-3 h2 {
+    text-align: left;
+}
 #wrapper242-3 a {
     color: blue;
     text-decoration: none;
