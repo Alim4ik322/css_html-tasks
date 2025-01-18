@@ -1580,4 +1580,48 @@
     text-align: right;
     padding-right: 20px;
 }
-
+.wrapper243 {
+	margin-bottom: 30px;
+}
+.wrapper243.line {
+	background-color: #008040;
+	color: white;
+}
+.center243 {
+	width: 800px;
+	padding: 20px;
+	margin: 0 auto;
+    text-align: center;
+}
+.wrapper243 h1 {
+    font: 35px Arial;
+    text-align: center;
+}
+.wrapper243 h2 {
+	font: 20px Arial;
+    text-align: center;
+}
+.wrapper243 p {
+	font: 23px;
+	text-align: center;
+}
+.wrapper245.line {
+	background-color: #C60304;
+	color: white;
+}
+.text245 {
+    width: 840px; 
+    display: block;
+    text-align: justify;
+    padding: 10px;
+    margin: 0 auto;
+}
+.text245 h2 {
+    font-weight: bold;
+}
+.wrapper2455.line {
+	background-color: #FF8040;
+	color: white;
+    margin: 0 auto;
+    padding: 10px;
+}
